@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "osm-pokemon"
+    }
+  },
+  "defaultProject": "osm-pokemon",
+  "cli": {
+    "analytics": "30602ac6-6359-40f2-8b1e-6ca80cde8ebd"
+  }
 }
